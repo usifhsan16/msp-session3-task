@@ -1,0 +1,381 @@
+.firsthalf
+{
+    width: device-width;
+    height: 900px;
+    background-color: #121913;
+}
+.nav
+{
+height: 73px;
+display: flex;
+justify-content: space-between;
+}
+.logo
+{
+    height: 100%;
+    width: 50%;
+    display: flex;
+}
+.img1
+{
+    width: 70px;
+    height: 50px;
+}
+.words
+{
+    height: 100%;
+    color: white;
+    width: 50px;
+}
+.buttons
+{
+height: 73px;
+width: 425px;
+}
+.but
+{
+    justify-content: space-between;
+    background-color:#121913;
+    color: white;
+    height: 75%;
+    width: 75px;
+    border: 0px;
+}
+.gbut
+{
+    background-color:#7FBA00;
+    border-radius: 5px;
+    width: 75px;
+    height: 50%;
+    border: 0px;
+}
+.big
+{
+    color: white;
+    width: 50%;
+    height: 400px;
+}
+.s1
+{
+    font-size: 70px;
+    height: 100px;
+}
+.s2
+{
+    height: 100px;
+    font-size: 70px;
+}
+.lor
+{
+    height: 125px;
+    width: 100%;
+}
+.gbut2
+{
+    background-color:#7FBA00;
+    border-radius: 5px;
+    width: 75px;
+    height: 40px;
+    border: 0px;
+    position: absolute;
+    left: 20px;
+}
+.split
+{
+    display: flex;
+    height: 500px;
+}
+.right
+{
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+.bigc
+{
+    border-style: solid;
+    border-color: #7FBA00;
+    height:375px;
+    width:375px;
+    background-color:#121913;
+    border-radius: 50%;
+    position: relative;
+    right: 74.5px;
+    left: 250px;
+    top: 33.5px;
+    bottom: 33.5px;
+}
+.midc
+{
+    border-style: none;
+    height:247px;
+    width:247px;
+    border-radius: 50%;
+    position: relative;
+    background-color: #d9d9d97a;
+    right: 64px;
+    left: 64px;
+    top: 64px;
+    bottom: 64px;
+}
+.smallc
+{
+    position: relative;
+    border-radius: 50%;
+    width: 119px;
+    height: 119px;
+    background-color: #D9D9D9;
+    right: 64px;
+    left: 64px;
+    top: 64px;
+    bottom: 64px;
+}
+.img2
+{
+ position: absolute;
+   width: 40px;
+   height: 40px; 
+   top: 39.5px;
+   bottom: 39.5px;
+   right: 39.5px;
+   left: 39.5px;
+}
+.img3
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid;  
+}
+.img4
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    right: 0px; 
+    top: 0px; 
+    border-color: white;
+    border-style: solid;
+}
+.img5
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    bottom: 0px;
+    right: 10px;
+    border-color: white;
+    border-style: solid;
+}
+.img6
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid; 
+    top: 60px; 
+}
+.img7
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid; 
+    left: 0px;
+    bottom: 60px;
+}
+.img8
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid; 
+    top: 5px; 
+    right:40px;
+}
+.img9
+{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid; 
+    right: 0px;
+    bottom: 30px;
+}
+.talk
+{
+    height: 250px;
+    width: device-width;
+    display: flex;
+}
+.web
+{
+    color: white;
+    flex-wrap: wrap;
+    background-color: #d9d9d92c;
+    width: 40%;
+    height: 100%;
+}
+.ui
+{
+    flex-wrap: wrap;
+    color: white;
+    background-color: #d9d9d92c;
+    width: 45%;
+    height: 100%;}
+.rect
+{
+    height:100%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.link
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.bi-flower3
+{
+    height:100px;
+    width: 20%;
+    color: #7FBA00;
+}
+.w
+{
+
+    height: 100%;
+    width: 80%;
+}
+.learn
+{
+    color: #7FBA00;
+}
+.make
+{
+    position: relative;
+width: 50%;
+color: white;
+}
+.m
+{
+display: block;
+}
+.b
+{
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    background-color: #7FBA00;
+    font: bold;
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+}
+.secondhalf
+{
+    position: relative;
+    height: 900px;
+    width: device-width;
+    background: url(https://www.figma.com/file/LufKkiBZmW5p0XdOJavek5/image/77b7d8c42c0a029f4e3c1bce044c88841db7ea7a);
+}
+.sm
+{
+    font-size: 50px;
+    height: 75px;
+    width: 40%;
+    color: white;
+    position: absolute;
+    right: 25%;
+    left: 30%;
+    top: 50px;
+    text-align: center;
+}
+.smb
+{
+    width: device-width;
+    height: 250px;
+}
+.imgb
+{
+    position: relative;
+    width: device-width;
+    height: 650px;
+}
+.simg1
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    top: 150px;
+    left: 75px;
+}
+.simg2
+{
+    position: absolute;
+    width: 200px;
+    height: 275px;
+    border-radius: 20px;
+    top: 0px;
+    left: 400px;
+}
+.simg3
+{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    bottom: 100px;
+    left: 400px; 
+}
+.simg4
+{
+    position: absolute;
+    width: 200px;
+    height: 700px;
+    border-radius: 20px;
+    bottom: 0px;
+    left: 650px; 
+}
+.simg5
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    top: 150px;
+    right: 75px;
+}
+.simg6
+{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    top: 0px;
+    right: 400px; 
+}
+.simg7
+{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    bottom: 100px;
+    right: 400px;
+}
